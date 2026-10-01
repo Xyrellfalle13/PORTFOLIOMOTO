@@ -70,7 +70,7 @@ function refreshStats() {
   if (!n) gallery.append(empty); else empty.remove();
 }
 const STATIC_WORKS = [
-  { src: 'https://www.magnific.com/free-photos-vectors/beautiful',  title: 'Traffic Advisory', cat: 'Traffic Management Bureau', desc: 'Facebook graphics for the Muntinlupa Traffic Management Bureau.' },
+  { src: ',.jpg',  title: 'Traffic Advisory', cat: 'Traffic Management Bureau', desc: 'Facebook graphics for the Muntinlupa Traffic Management Bureau.' },
   { src: 'images/work-5.jpg',  title: 'Strictly Prohibited series', cat: 'Traffic Management Bureau', desc: 'Road-rule reminders: no helmet, unauthorized counterflow, parking in prohibited areas.' },
   { src: 'images/work-6.jpg',  title: 'How to Pay Online', cat: 'Traffic Management Bureau', desc: 'Step-by-step guide posts for online payment.' },
   { src: 'images/work-7.jpg',  title: 'Holiday greetings', cat: 'Traffic Management Bureau', desc: 'Labor Day, Independence Day, Araw ng Kagitingan, Employee Appreciation Day.' },
